@@ -1,4 +1,8 @@
 # Helló világ
+cd kisnoverekenekrend.github.io
+
+echo "Hello World" > index.html
+
 Ez itt egy jó kis valami
 Amiben [itt](még egy link) is van.
 
